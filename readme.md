@@ -2,7 +2,7 @@
 
 > This is Spring Boot Kubernetes Client Example
 >
-<img src="https://github.com/mhmmderen3/.png" alt="Spring Boot Kubernetes Client" width="100%" height="100%"/> 
+<img src="https://github.com/Muhammederendemir/Kubernetes-Client-with-Spring-Boot/blob/master/images/kubernetes-client-and-spring-boot.png" alt="Spring Boot Kubernetes Client" width="100%" height="100%"/> 
 
 ## Prerequisites
 
